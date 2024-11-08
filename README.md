@@ -1,4 +1,4 @@
-# Projeto Sorriso feliz
+# Projeto consultorio de Endocrinologista
 
 projeto feito na materia de web 2
 
@@ -16,13 +16,7 @@ calcular seu imc por meio de formularios.Este projeto utiliza **HTML**, **CSS** 
 
 ### Estrutura do Projeto
 
-- **Home**: Apresentação sobre o consultório e um breve resumo dos
-  serviços.
-- **Serviços**: Detalhamento dos principais serviços oferecidos.
-- **Galeria de Sorrisos**: Exposição de imagens de antes e depois.
-- **Depoimentos**: Comentários e avaliações de pacientes fictícios.
-- **Contato**: Formulário para facilitar a comunicação com os
-  visitantes.
+- **formulario**:um formulario que pode ser colocado suas informaçoes
 
 ## Pré-requisitos
 
@@ -37,32 +31,22 @@ calcular seu imc por meio de formularios.Este projeto utiliza **HTML**, **CSS** 
 As tecnologias e ferramentas utilizadas neste projeto são:
 
 - **HTML5**: Estruturação semântica e organizada.
-- **CSS3**: Estilos visuais e layout responsivo.
-- **JavaScript**: Validação de formulários e animações interativas.
-- **Google Fonts**: Tipografia estilosa e legível.
-
+- **CSS3**: Estilos visuais.
+- **PHP**: Validação do formulário.
 
 ## Estrutura de Pastas
 
 ```plaintext
-/projeto-sorriso-perfeito
+/consultorio-de-Endocrinologista
 │
-├── index.html # Página principal do projeto
-├── styles/
-│ └── style.css # Estilos principais
-├── scripts/
-│ └── script.js # Scripts para interatividade
-├── assets/
-│ ├── img/ # Imagens, incluindo galeria e logotipo
-│ └── fonts/ # (Opcional) Fontes adicionais
+├──consultorio.php
 └── README.md # Documentação do projeto
 
 ## Como Executar o Projeto
 1. Clone o repositório em sua máquina local:
-git clone https://github.com/seu_usuario/projeto-sorriso-
-perfeito.git
+git clone https://github.com/seu_usuario/consultorio-de-Endocrinologista.git
 2. Navegue até o diretório do projeto:
-cd projeto-sorriso-perfeito
+cd consultorio-de-Endocrinologista
 3. Abra o arquivo index.html em seu navegador.
 
 Dica: Você pode usar uma extensão de servidor local no VS Code, como
