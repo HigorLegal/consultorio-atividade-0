@@ -1,7 +1,4 @@
 <header>
-
-    <a href='./index.php'>voltar</a>
-
     <h1>Consultario</h1>
  
     
