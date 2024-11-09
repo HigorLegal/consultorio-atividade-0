@@ -16,7 +16,7 @@ calcular seu imc por meio de formularios.Este projeto utiliza **HTML**, **CSS** 
 
 ### Estrutura do Projeto
 
-- **formulario**:um formulario que pode ser colocado suas informaçoes
+- **formulario**: um formulario que pode ser colocado suas informaçoes
 
 ## Pré-requisitos
 
