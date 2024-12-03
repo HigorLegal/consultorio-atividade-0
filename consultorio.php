@@ -1,9 +1,16 @@
 <header>
     <h1>Consultario</h1>
- 
+ <a href="#main">main</a>
+ <a href="#formulario">formulario</a>
+ <a href="#sobre">sobre</a>
     
 
 </header>;
+<div id="main">
+<h1>main</h1>
+<p>Nosso objetivo é proporcionar uma abordagem personalizada e integrada para cada paciente, com foco no tratamento e prevenção de distúrbios endócrinos..</p>
+</div>
+<div>
 
 <div class='titulo' style='margin-bottom: 20px;margin-top: 12 0px;'>
     <div class='line'>
@@ -11,6 +18,7 @@
         <p id='text-titulo'>Formulario</p>
     </div>
 </div>
+
 <section id='formulario'>
 
     <form method='post' action=''>
@@ -99,6 +107,22 @@ if (
 ?>
     </div>
 </section>
+<div class='titulo' style='margin-bottom: 20px;margin-top: 12 0px;'>
+    <div class='line'>
+
+        <p id='text-titulo'>sobre</p>
+    </div>
+</div>
+<div id="sobre">
+<h1>sobre</h1>
+<p>A história de Mariana, uma mulher que enfrentava ganho de peso inexplicável e cansaço extremo, leva à 
+    descoberta da Clínica Vida e Equilíbrio, especializada em endocrinologia. Após exames detalhados com o 
+    Dr. Lucas, ela é diagnosticada com um desequilíbrio hormonal que afeta seu metabolismo. Com um tratamento 
+    personalizado, incluindo ajustes alimentares e medicamentos, Mariana começa a recuperar sua energia e bem-estar. 
+    A clínica, que oferece cuidado integral com apoio nutricional e psicológico, se torna um ponto de transformação 
+    para ela. Mariana, agora saudável, se torna defensora da saúde endócrina e inspira outros a buscar a clínica para 
+    encontrar equilíbrio e qualidade de vida.</p>
+</div>
 <div>
 
 
@@ -116,6 +140,17 @@ if (
         display: flex;
     }
 
+    #sobre {
+        color:white;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    #MAIN {
+        color:white;
+        text-align: center;
+        font-size: 20px;
+    }
     #formulario {
         display: flex;
         flex-direction: row;
